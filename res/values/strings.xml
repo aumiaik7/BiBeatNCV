@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BiBeat NCV</string>
+    <string name="fourty">40 ms</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="eighty">80 ms</string>
+    <string name="gain1">333</string>
+    <string name="gain2">1000</string>
+    <string name="gain3">3333</string>
+    <string name="gain4">10000</string>
+    <string name="browse">Select File</string>
+    <string name="about">About</string>
+    <string name="stimulation">Stimulation Time</string>
+    
+    <string name="p_1">0.1 ms</string>
+    <string name="p_2">0.2 ms</string>
+    <string name="p_3">0.3 ms</string>
+    <string name="p_4">0.4 ms</string>
+    <string name="p_5">0.5 ms</string>
+    <string name="p_6">0.6 ms</string>
+    <string name="p_7">0.7 ms</string>
+    <string name="p_8">0.8 ms</string>
+    <string name="p_9">0.9 ms</string>
+    <string name="p_10">1.0 ms</string>
+    
+    
+    
+
+</resources>
